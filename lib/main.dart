@@ -16,13 +16,27 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.red
         ),
 
-        body: Row( 
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[ 
-            Text("BERITA TERBARU"),
-            Text("PERTANDINGAN HARI INI"),
-              
-          ], 
+        body: ListView( 
+          children: <Widget>[
+            Container(
+              padding: EdgeInsets.all(16.0),
+              child: Row( 
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: <Widget> [
+                  Column (
+                    children: <Widget>[
+                      Text ("BERITA TERBARU", textAlign: TextAlign.center,)
+                    ]
+                  ),
+                  Column (
+                    children: <Widget>[
+                      Text ("PERTANDINGAN HARI INI", textAlign: TextAlign.center,)
+                    ]
+                  ),
+                ],
+              )
+            )
+          ] 
         ),
       )
     );
