@@ -24,24 +24,24 @@ samples, guidance on mobile development, and a full API reference.
 <b>Berikut ini latihan praktikum jobsheet 2 :</b><br>
 <ul>
   <li>Latihan Text Widget</li><br>
-  ![1](https://user-images.githubusercontent.com/52942668/108335089-2ff63680-7205-11eb-8c6c-2a3c570474cb.jpeg)<br>
+  ![1](https://user-images.githubusercontent.com/52942668/108335089-2ff63680-7205-11eb-8c6c-2a3c570474cb.jpeg)
   <li>Latihan Image Widget</li><br>
-  ![2](https://user-images.githubusercontent.com/52942668/108335094-32589080-7205-11eb-8d79-e18a3046ae59.jpeg)<br>
+  ![2](https://user-images.githubusercontent.com/52942668/108335094-32589080-7205-11eb-8d79-e18a3046ae59.jpeg)
   <li>Latihan Material Design dan iOS Cupertino</li><br>
-  ![3](https://user-images.githubusercontent.com/52942668/108335115-371d4480-7205-11eb-947d-0bd66ec5b5aa.jpeg)<br>
+  ![3](https://user-images.githubusercontent.com/52942668/108335115-371d4480-7205-11eb-947d-0bd66ec5b5aa.jpeg)
   <li>Latihan Button</li><br>
-  ![4](https://user-images.githubusercontent.com/52942668/108335126-384e7180-7205-11eb-829b-c321493c91d9.jpeg)<br>
+  ![4](https://user-images.githubusercontent.com/52942668/108335126-384e7180-7205-11eb-829b-c321493c91d9.jpeg)
   <li>Latihan Scaffold</li><br>
-  ![5](https://user-images.githubusercontent.com/52942668/108335158-3edce900-7205-11eb-812a-0cdca73b7ddd.jpeg)<br>
+  ![5](https://user-images.githubusercontent.com/52942668/108335158-3edce900-7205-11eb-812a-0cdca73b7ddd.jpeg)
   <li>Latihan Dialog</li><br>
-  ![61](https://user-images.githubusercontent.com/52942668/108335176-413f4300-7205-11eb-97f2-294aadeb51aa.jpeg)<br>
-  ![62](https://user-images.githubusercontent.com/52942668/108335180-42707000-7205-11eb-8658-15c1dc0b0924.jpeg)<br>
+  ![61](https://user-images.githubusercontent.com/52942668/108335176-413f4300-7205-11eb-97f2-294aadeb51aa.jpeg)
+  ![62](https://user-images.githubusercontent.com/52942668/108335180-42707000-7205-11eb-8658-15c1dc0b0924.jpeg)
   <li>Latihan Input dan Selection Widget</li><br>
-  ![71](https://user-images.githubusercontent.com/52942668/108335192-44d2ca00-7205-11eb-94ae-7f234bfa5898.jpeg)<br>
-  ![72](https://user-images.githubusercontent.com/52942668/108335210-48fee780-7205-11eb-837c-729d6a789f39.jpeg)<br>
+  ![71](https://user-images.githubusercontent.com/52942668/108335192-44d2ca00-7205-11eb-94ae-7f234bfa5898.jpeg)
+  ![72](https://user-images.githubusercontent.com/52942668/108335210-48fee780-7205-11eb-837c-729d6a789f39.jpeg)
   <li>Latihan Date and Time Pickers</li><br>
-  ![81](https://user-images.githubusercontent.com/52942668/108335225-4b614180-7205-11eb-80a8-4b7df496d7d5.jpeg)<br>
-  ![82](https://user-images.githubusercontent.com/52942668/108335236-4c926e80-7205-11eb-9af0-72d9ecfbf84e.jpeg)<br>
+  ![81](https://user-images.githubusercontent.com/52942668/108335225-4b614180-7205-11eb-80a8-4b7df496d7d5.jpeg)
+  ![82](https://user-images.githubusercontent.com/52942668/108335236-4c926e80-7205-11eb-9af0-72d9ecfbf84e.jpeg)
  </ul><br>
  
  <b>Berikut ini tugas praktikum jobsheet 2 :</b><br>
