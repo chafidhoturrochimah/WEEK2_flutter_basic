@@ -19,18 +19,18 @@ samples, guidance on mobile development, and a full API reference.
   <li><b>Nama    : Chafidhoturrochimah</b></li>
   <li><b>Kelas   : MI-2B</b></li>
   <li><b>NIM     : 1931710013</b></li>  
-</ul>
+</ul><br>
 
 <b>Berikut ini latihan praktikum jobsheet 2 :</b><br>
 <ul>
   <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
-  <li>Latihan Text Widget</li><br>
+  <li>Latihan Image Widget</li><br>
+  <li>Latihan Material Design dan iOS Cupertino</li><br>
+  <li>Latihan Button</li><br>
+  <li>Latihan Scaffold</li><br>
+  <li>Latihan Dialog</li><br>
+  <li>Latihan Input dan Selection Widget</li><br>
+  <li>Latihan Date and Time Pickers</li><br>
  </ul><br>
  
  <b>Berikut ini tugas praktikum jobsheet 2 :</b><br>
