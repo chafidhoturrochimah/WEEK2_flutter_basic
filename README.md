@@ -44,5 +44,6 @@ samples, guidance on mobile development, and a full API reference.
 
  
  <b>Berikut ini tugas praktikum jobsheet 2 :</b><br>
- ![WhatsApp Image 2021-02-18 at 16 08 37](https://user-images.githubusercontent.com/52942668/108335721-d6423c00-7205-11eb-8a13-3389f36569e0.jpeg)
+ ![WhatsApp Image 2021-02-18 at 16 53 25](https://user-images.githubusercontent.com/52942668/108339467-0ab7f700-720a-11eb-9fd9-6910d26d94db.jpeg)
+
   
