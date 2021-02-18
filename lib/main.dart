@@ -96,6 +96,7 @@ class MyApp extends StatelessWidget {
           child: Row(
             children: <Widget>[
               Container(
+                padding: EdgeInsets.all(5.0),
                 decoration: BoxDecoration( border: Border.all(color: Colors.black)),
                 alignment: Alignment.centerLeft,
                 child: Text("Barcelona Feb 13, 2021",
@@ -138,6 +139,7 @@ class MyApp extends StatelessWidget {
           child: Row(
             children: <Widget>[
               Container(
+                padding: EdgeInsets.all(5.0),
                 decoration: BoxDecoration( border: Border.all(color: Colors.black)),
                 alignment: Alignment.centerLeft,
                 child: Text("Barcelona Feb 13, 2021",
