@@ -23,8 +23,10 @@ samples, guidance on mobile development, and a full API reference.
 
 <b>Berikut ini latihan praktikum jobsheet 2 :</b><br>
 <ul>
-  <li>Latihan Text Widget</li><br>
-  ![1](https://user-images.githubusercontent.com/52942668/108335089-2ff63680-7205-11eb-8c6c-2a3c570474cb.jpeg)
+  <li>Latihan Text Widget<br>
+    ![1](https://user-images.githubusercontent.com/52942668/108335089-2ff63680-7205-11eb-8c6c-2a3c570474cb.jpeg)
+  </li><br>
+  
   <li>Latihan Image Widget</li><br>
   ![2](https://user-images.githubusercontent.com/52942668/108335094-32589080-7205-11eb-8d79-e18a3046ae59.jpeg)
   <li>Latihan Material Design dan iOS Cupertino</li><br>
